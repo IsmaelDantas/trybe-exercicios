@@ -1,0 +1,36 @@
+div:hover {
+    border  : 1px solid green;
+}
+
+#primary-color {
+    font-style: italic;
+}
+
+#primary-color:hover {
+    border: 1px solid red;
+}
+
+#secondary-color:hover {
+    border: 1px solid orange;
+}
+
+#complementar-color {
+    font-style: italic;
+    width: 2em;
+}
+
+#complementar-color:hover {
+    border: 1px solid #529BC0
+}
+
+#dark-color:hover {
+    border: 1px solid black
+}
+
+#bright-color {
+    font-style: italic;
+}
+
+#bright-color:hover {
+    border: 1px solid #00FFFF
+}
