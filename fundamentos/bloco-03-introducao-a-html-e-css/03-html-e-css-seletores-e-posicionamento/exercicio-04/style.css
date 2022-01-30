@@ -1,0 +1,52 @@
+.color-change {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+ol li:nth-child(2n+1) {
+    text-transform: uppercase;
+}
+
+ol li:nth-child(2n) {
+    color: green;
+}
+
+h1, h2, h3 {
+        color: red;
+}
+
+h1.italic {
+    size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li.the-one {
+    color: blue;
+}
+
+li.pink {
+    background-color: pink;
+}
+
+.orange:hover {
+    color: orange;
+    font-weight: bold;
+}
+.green:hover {
+    color: green;
+    font-weight: bold;
+}
+
+.black:hover {
+    color: black;
+    font-weight: bold;
+}
+
+.yellow:hover {
+    color: yellow;
+    font-weight: bold;
+}
